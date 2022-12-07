@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "response": {
+  "result": {
+    "cf": "CHEPLL80A01B157Q",
+    "idScheda": 15381,
+    "stato": "SKIPPATO",
+    "idAdesione": 4181,
+    "dataAdesione": "01-08-2022",
+    "codProfQuant": "bb824ebc-9e4c-4234-97f5-d2425431cc65",
+    "idPsp": 7542,
+    "statoPsp": 3,
+    "tipoPspPrima": 5,
+    "tipoPspDopo": null,
+    "idDid": 13182,
+    "statoDid": 3,
+    "idA02": "1000189869B",
+    "idA07": "1000189868G",
+    "idA08": "100018986aH",
+    "sincronizzaSap": false,
+    "tipoErrore": null,
+    "descrizioneErrore": null
+  },
+  "operation": 1,
+  "messaggio": [
+    ""
+  ]
+}
 }
